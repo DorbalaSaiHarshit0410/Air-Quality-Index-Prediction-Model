@@ -24,3 +24,13 @@ Matplotlib & Seaborn for data visualization 📉
 Scikit-learn for machine learning models 🤖
 
 Jupyter Notebook for interactive coding 📒
+
+📊 Dataset
+
+The model uses air quality datasets from trusted sources like:
+
+U.S. Environmental Protection Agency (EPA) 🌍
+
+World Air Quality Index (WAQI) 🌎
+
+Local government air pollution monitoring agencies 📡
